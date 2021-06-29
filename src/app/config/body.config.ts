@@ -6,7 +6,7 @@ export const allUsers = {
     headings: {en: 'English title', es: 'prueba jeje español'}
 };
 export const uniqueUser = {
-    appId: '0e15b43e-1a60-4af3-a2d0-8742a4bd9da2',
+    app_id: '0e15b43e-1a60-4af3-a2d0-8742a4bd9da2',
     data: {userID: 'Postman-123444'},
     contents: {en: 'English message', es: 'Mensaje español'},
     headings: {en: 'English title', es: 'prueba jeje español'},
